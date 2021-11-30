@@ -1,10 +1,10 @@
-# spdm
+# SPDM
 
 ## O projeto foi iniciado com : 
 
 ```
 Boas práticas
-Clen Code
+Clean Code
 VueX
 Axios
 Bootstrap-vue
